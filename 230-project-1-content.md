@@ -20,4 +20,4 @@ Cartoonish-realistic graphics style. A backing soundtrack with various sound eff
 The player can move left and right to dodge or attack opponents. They can collect pucks. They can shoot at a goal. Keyboard will be the primary mode of input.
 
 ## VII. About the Developer
-Justin Nauta is a 2nd year Game Design and Development major, with a large interest in programming, mainly in C#.
+Justin Nauta is a second year Game Design and Development major, with a strong interest in programming, mainly in C#. He has been programming since he was just eleven years old, and aspires to be a professional game developer.
